@@ -6,5 +6,6 @@
         <item>16000</item>
         <item>22050</item>
         <item>44100</item>
+	<item>48000</item>
 	</string-array> 
 </resources>
